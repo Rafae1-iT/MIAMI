@@ -1,9 +1,8 @@
 .main {
     height: 100vh;
-    background-image: url(../img/main.png);
+    background-image: url(./img/main.png);
     background-position: center center;  
     background-repeat: no-repeat; 
-    /* background-attachment: fixed;  */
     background-size: cover; 
 }
 
@@ -90,7 +89,7 @@
     color: #9fadc2;
 }
 .footer {
-    background-image: url(../img/Footer.png);
+    background-image: url(./img/Footer.png);
     background-position: center center;  
     background-repeat: no-repeat;
     background-size: cover; 
